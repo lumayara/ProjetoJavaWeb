@@ -1,0 +1,12 @@
+com\mycompany\post\project\repository\GenericRepository.class
+com\mycompany\post\project\repository\UserAppRepository.class
+com\mycompany\post\project\service\exception\ServiceException.class
+com\mycompany\post\project\entity\IEntity.class
+com\mycompany\post\project\service\UserAppService.class
+com\mycompany\post\project\controller\UserAppController.class
+com\mycompany\post\project\entity\Comment.class
+com\mycompany\post\project\repository\CommentRepository.class
+com\mycompany\post\project\entity\Post.class
+com\mycompany\post\project\service\IService.class
+com\mycompany\post\project\entity\UserApp.class
+com\mycompany\post\project\repository\PostRepository.class
